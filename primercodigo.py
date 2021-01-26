@@ -1,2 +1,2 @@
 print('hola') 
-print(' es lunes ')
+print(' ayer fue lunes ')
